@@ -26,3 +26,6 @@ body {
 form {
   color: #191f45;
 }
+form label {
+  color: #fff;
+}
